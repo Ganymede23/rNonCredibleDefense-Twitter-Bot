@@ -1,3 +1,5 @@
+Media/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +129,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+twitter_authentication.py
+reddit_authentication.py
+test.py
